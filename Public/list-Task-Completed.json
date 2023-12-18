@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "descripcion": "cocinar",
+        "estado": "completada"
+    },
+    {
+        "id": 4,
+        "descripcion": "bañarse",
+        "estado": "completada"
+    }
+]
